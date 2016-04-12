@@ -6,5 +6,5 @@ while true; do
     break
   fi
   sleep 600
-  done
+done
 date
